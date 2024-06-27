@@ -1,0 +1,137 @@
+body {
+    background-color: rgb(211, 193, 243);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Ballet';
+    font-weight: 200;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    margin: auto;
+    font-family: 'Questrial';
+}
+
+.container {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.colorcontainer {
+    width: 500px;
+    margin: 10px;
+}
+
+.background {
+    display: inline-block;
+    width: 200px;
+    padding: 5px;
+    text-align: center;
+    background-color: #1E1E3F;
+    color: white;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.accent {
+    display: inline-block;
+    width: 200px;
+    padding: 5px;
+    text-align: center;
+    background-color: #2D2B55;
+    color: white;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.foreground {
+        display: inline-block;
+        width: 200px;
+        padding: 5px;
+        text-align: center;
+        background-color: #A599E9;
+        color: white;
+        border-radius: 10px;
+        margin: 5px;
+}
+
+.header {
+    display: inline-block;
+    width: 200px;
+    padding: 5px;
+    text-align: center;
+    background-color: #9EFFFF;
+    color: black;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.links {
+    display: inline-block;
+    width: 200px;
+    padding: 5px;
+    text-align: center;
+    background-color: #B362FF;
+    color: black;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.fontcontainer {
+    text-align: center;
+}
+
+.font-panel {
+    display: inline-block;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.tnr {
+    font-size: 18px;
+}
+
+.ballet {
+    font-size: 18px;
+}
+
+.ques {
+    font-size: 18px;
+}
+
+
+.tnrfont {
+    font-family: 'Times New Roman';
+}
+
+.balletfont {
+    font-family: 'Ballet',cursive ;
+    font-size: 18px;
+}
+
+.quesfont {
+    font-family: 'Questrial',sans-serif;
+    font-size: 18px;
+}
+
+.textcontainer {
+    text-align: center;
+}
+
+.textpanel {
+    display: inline-block;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
